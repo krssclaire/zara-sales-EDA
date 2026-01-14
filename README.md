@@ -7,6 +7,9 @@ Insights are presented through an interactive dashboard designed to support data
 Dataset source: [Kaggle - Maryam Idrissi](https://www.kaggle.com/datasets/marixe/zara-sales-for-eda?resource=download)  
 Tools: **Excel** | **PowerQuery** | **Power BI**
 
+<img src="https://raw.githubusercontent.com/krssclaire/zara-sales-EDA/refs/heads/main/deliverables/dashboard.png"></img>
+_PowerBI final dashboard_
+
 ## Business Context
 Zara operates in the fast fashion industry, where:
 - product life cycles are short
@@ -23,6 +26,7 @@ The main objectives of this project are:
 - Assess the distribution of sales by **country of origin**  
 
 ## Analysis & Key Insights
+
 ### Seasonality
 - Autumn and Winter show the highest sales volumes.
 - Seasonal products consistently outperform non-seasonal ones.  
